@@ -4,5 +4,5 @@
 
 I Solve Problems  
 Senior Software Engineer  
-Python | C# | SQL | Django | HTML | CSS | JS | ..  
+Python | C# | SQL | Django | HTML | CSS | JS | AWS | ..  
 #PMI #SCRUM #KANBAN #UI #FULL-STACK
